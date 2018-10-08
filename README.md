@@ -131,4 +131,6 @@ If I helped you to get that tshirt,
 * [TagLog](https://github.com/NJOYSoftware)
 * [dennydap](https://github.com/dennydap)
 * [indraarianggi](https://github.com/indraarianggi)
+* [ckopecky](https://github.com/ckopecky)
+
 
